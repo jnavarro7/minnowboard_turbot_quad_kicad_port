@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name intel_cpu)(type Legacy)(uri ${KIPRJMOD}/intel_cpu.lib)(options "")(descr ""))
+)
