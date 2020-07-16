@@ -5,4 +5,4 @@ Basically I aim to port the schematic as a first, this will include work to crea
 Maybe this will gain traction and people will start using this to make their own single board computers. 
 
 
-![alt tag](/screenshot.jpeg)
+![alt tag](/screenshot.jpg)
