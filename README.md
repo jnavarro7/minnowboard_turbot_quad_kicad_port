@@ -1,10 +1,10 @@
 # MinnowBoard_turbot_quad_kicad_port
 
-<h3>Port of the **MinnowBoard Turbot** quad core design files to **KiCad** </h3>. 
+<h3>Port of the MinnowBoard Turbot quad core design files to KiCad </h3>. 
 
 ![MinnowBoard Turbot](https://software.intel.com/content/dam/develop/public/us/en/images/hardware/iot-minnow-turbot-16x9.png.rendition.intel.web.720.405.png)
  
-_If I am not mistaken the shared project was created using Cadence tools._
+_If I am not mistaken the original project was created using Cadence tools._
 
 Basically I aim to port the schematic as a first, this will include work to create new symbols for parts not included in KiCad, like the Atom E3845 Quad Core CPU, etc. 
 
