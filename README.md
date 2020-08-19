@@ -6,13 +6,15 @@
  
 _If I am not mistaken the original project was created using Cadence tools._
 
-Basically I aim to port the schematic as a first, this will include work to create new symbols for parts not included in KiCad, like the Atom E3845 Quad Core CPU, etc. 
+Basically I aim to port the schematic first.
+Schematic porting tasks will include work to create missing symbols for parts not included in KiCad, like the Atom E3845 Quad Core CPU, etc. 
 
 > Symbol creation list (Will be updated as needed).
 >
 > * Intel Atom E3845 [Datasheet](https://www.mouser.mx/datasheet/2/612/atom-e3800-family-datasheet-1522396.pdf)
+>
 
-> Pictures of the symbols being created. 
+**Pictures of the symbols being created.** 
 ![alt tag](/screenshot.jpg)
 ![alt tag](/screenshot_2.jpg)
 ![alt tag](/screenshot_3.jpg)
