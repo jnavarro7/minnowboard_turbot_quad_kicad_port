@@ -14,10 +14,10 @@ Schematic porting tasks will include work to create missing symbols for parts no
 
 
 ## Pictures of the symbols being created. 
-![alt tag](/screenshot.jpg)
-![alt tag](/screenshot_2.jpg)
-![alt tag](/screenshot_3.jpg)
-![alt tag](/screenshot_4.jpg)
-![alt tag](/screenshot_5.jpg)
-![alt tag](/screenshot_6.jpg)
-
+![alt tag](/pictures/screenshot.jpg)
+![alt tag](/pictures/screenshot_2.jpg)
+![alt tag](/pictures/screenshot_3.jpg)
+![alt tag](/pictures/screenshot_4.jpg)
+![alt tag](/pictures/screenshot_5.jpg)
+![alt tag](/pictures/screenshot_6.jpg)
+![alt tag](/pictures/screenshot_7.jpg)
