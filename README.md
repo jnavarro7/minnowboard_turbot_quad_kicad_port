@@ -21,3 +21,4 @@ Schematic porting tasks will include work to create missing symbols for parts no
 ![alt tag](/pictures/screenshot_5.jpg)
 ![alt tag](/pictures/screenshot_6.jpg)
 ![alt tag](/pictures/screenshot_7.jpg)
+![alt tag](/pictures/screenshot_8.jpg)
