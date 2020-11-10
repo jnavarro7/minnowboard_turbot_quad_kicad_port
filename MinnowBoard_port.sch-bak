@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr B 17000 11000
 encoding utf-8
-Sheet 1 12
+Sheet 1 8
 Title "MinnowBoard Turbot Quad KiCad port. "
 Date ""
 Rev ""
@@ -213,29 +213,5 @@ S 1000 5600 500  150
 U 5FBDF0AC
 F0 "page7" 50
 F1 "page7.sch" 50
-$EndSheet
-$Sheet
-S 1000 5950 500  150 
-U 5FC6CFD1
-F0 "page8" 50
-F1 "page8.sch" 50
-$EndSheet
-$Sheet
-S 1000 6300 500  150 
-U 5FC6D55E
-F0 "page9" 50
-F1 "page9.sch" 50
-$EndSheet
-$Sheet
-S 1000 6650 500  150 
-U 5FC6D6FB
-F0 "page10" 50
-F1 "page10.sch" 50
-$EndSheet
-$Sheet
-S 1000 7000 500  150 
-U 5FC6DA33
-F0 "page11" 50
-F1 "page11.sch" 50
 $EndSheet
 $EndSCHEMATC
