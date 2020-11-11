@@ -1,0 +1,71 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr B 17000 11000
+encoding utf-8
+Sheet 12 12
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L intel_cpu:e3845 U?
+U 9 1 5FD2627B
+P 2450 3250
+F 0 "U?" H 2450 3315 50  0000 C CNN
+F 1 "e3845" H 2450 3224 50  0000 C CNN
+F 2 "" H 2450 3200 50  0001 C CNN
+F 3 "" H 2450 3200 50  0001 C CNN
+	9    2450 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L intel_cpu:e3845 U?
+U 10 1 5FD4A87A
+P 5500 3250
+F 0 "U?" H 5450 3315 50  0000 C CNN
+F 1 "e3845" H 5450 3224 50  0000 C CNN
+F 2 "" H 5500 3200 50  0001 C CNN
+F 3 "" H 5500 3200 50  0001 C CNN
+	10   5500 3250
+	1    0    0    -1  
+$EndComp
+$Comp
+L intel_cpu:e3845 U?
+U 11 1 5FD80C99
+P 8400 3200
+F 0 "U?" H 8375 3215 50  0000 C CNN
+F 1 "e3845" H 8375 3124 50  0000 C CNN
+F 2 "" H 8400 3150 50  0001 C CNN
+F 3 "" H 8400 3150 50  0001 C CNN
+	11   8400 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L intel_cpu:e3845 U?
+U 12 1 5FDACA8D
+P 11400 3200
+F 0 "U?" H 11350 3215 50  0000 C CNN
+F 1 "e3845" H 11350 3124 50  0000 C CNN
+F 2 "" H 11400 3150 50  0001 C CNN
+F 3 "" H 11400 3150 50  0001 C CNN
+	12   11400 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L intel_cpu:e3845 U?
+U 13 1 5FDD107D
+P 14400 3200
+F 0 "U?" H 14350 3225 50  0000 C CNN
+F 1 "e3845" H 14350 3134 50  0000 C CNN
+F 2 "" H 14400 3150 50  0001 C CNN
+F 3 "" H 14400 3150 50  0001 C CNN
+	13   14400 3200
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
