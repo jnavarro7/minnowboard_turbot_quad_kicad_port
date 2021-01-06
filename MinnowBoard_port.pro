@@ -1,4 +1,4 @@
-update=2020 December 02, Wednesday 21:17:29
+update=2021 January 06, Wednesday 15:49:27
 version=1
 last_client=kicad
 [pcbnew]
@@ -31,7 +31,7 @@ LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=/Users/imac/Documents/GitHub/minnowboard_turbot_quad_kicad_port/schematic_pdf/
+PlotDirectoryName=/Users/imac/Documents/GitHub/minnowboard_turbot_quad_kicad_port/schematic_pdf/MinnowBoard_port
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
