@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name intel_cpu)(type Legacy)(uri ${KIPRJMOD}/intel_cpu.lib)(options "")(descr ""))
-  (lib (name MinnowBoard_port-rescue)(type Legacy)(uri ${KIPRJMOD}/MinnowBoard_port-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "intel_cpu")(type "Legacy")(uri "${KIPRJMOD}/intel_cpu.lib")(options "")(descr ""))
+  (lib (name "MinnowBoard_port-rescue")(type "KiCad")(uri "${KIPRJMOD}/MinnowBoard_port-rescue.kicad_sym")(options "")(descr ""))
 )
